@@ -6,3 +6,4 @@ Data Analysis and Visualization with Python and Pandas
 3. TSLA stock Analysis -- Risk Analysis (Monte Carlo and Quantile)
 4. Election Analysis
 5. Linear Regression (Machine Learning)
+6. Multi Class Classification and KNN with Scikit Learn
